@@ -1,0 +1,15 @@
+
+
+/getFiltres {
+  // edit DB
+  // edit Variable
+}
+
+/setFiltres {
+  // edit DB
+  // edit variable
+}
+
+/checkLogin{
+
+}
